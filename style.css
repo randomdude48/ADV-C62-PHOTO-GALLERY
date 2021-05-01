@@ -120,7 +120,7 @@ color:fuchsia;
 #jelly{
 transition:transform .2s;    
 border:10px solid #AAAAAA;
-width:30%;
+width:200px;
 }
 
 #jelly:hover{
